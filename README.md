@@ -1,5 +1,3 @@
-#track from one place
-
 🎲 ELECTROBOT
 
 ELECTROBOT is a web-based electronic gadget discovery platform developed using HTML, CSS, and JavaScript. It enables users to explore and compare various electronic gadgets from leading brands and provides direct links to official purchasing platforms.
